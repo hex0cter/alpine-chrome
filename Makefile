@@ -1,5 +1,5 @@
 REGISTRY       = hex0cter
-IMAGE          = alpine-x-chrome
+IMAGE          = alpine-chrome
 VERSION        = $(shell git log --pretty=format:'%h' -n 1)
 
 # docker might or might not require sudo
