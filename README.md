@@ -1,10 +1,11 @@
 
 ## Docker image for Alpine with Chromium
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/hex0cter/alpine-chrome/latest)](https://hub.docker.com/r/hex0cter/alpine-chrome)
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/hex0cter/alpine-chrome)](https://hub.docker.com/r/hex0cter/alpine-chrome/builds)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/hex0cter/alpine-chrome)](https://hub.docker.com/r/hex0cter/alpine-chrome/builds)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hex0cter/alpine-chrome)](https://hub.docker.com/r/hex0cter/alpine-chrome)
 
-This image allows you to run the chromium browser inside a docker container.
+This image allows you to run the ***Chromium*** browser inside a docker container. For Firefox please click [here](https://github.com/hex0cter/alpine-firfox).
 
 ## What is included?
 * alpine with X server (use `DEBUG=true` to turn on the vnc server)
