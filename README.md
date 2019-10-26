@@ -16,7 +16,7 @@ This image allows you to run the ***Chromium*** browser inside a docker containe
 
 ## Pull the image
 ```bash
-docker push hex0cter/alpine-chrome:latest
+docker pull hex0cter/alpine-chrome:latest
 ```
 Please visit [docker hub](https://hub.docker.com/repository/docker/hex0cter/alpine-chrome) for more details.
 
